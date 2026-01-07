@@ -6,7 +6,7 @@ on:
 
 permissions:
   models: read
-  issues: write0++
+  issues: write
 jobs:
   analyze:
     name: AI Issue Completeness
